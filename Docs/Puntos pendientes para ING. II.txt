@@ -1,0 +1,11 @@
+ING. 2
+reporte de inventario fisico
+codigo de barras
+multiples almacen
+privilegios de usuario, no por roles.
+cambiar contraseña login
+
+configuracion de la inactivacion
+quitar rango de fecha en factura
+moneda
+reporte.

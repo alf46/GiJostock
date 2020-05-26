@@ -1,0 +1,7 @@
+
+Implementaciones Futuras:
+
+Descuento,
+Impuesto, por cliente
+lista de precio, por cliente
+manejo de precio.
